@@ -1,0 +1,6 @@
+- name: show msg hello
+  hosts: all
+  tasks:
+    - name: Print the message directly
+      ansible.builtin.debug:
+        msg: "hello"
