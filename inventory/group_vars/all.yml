@@ -1,2 +1,1 @@
----
-ansible_user: prabhu
+nginx_port: 80
