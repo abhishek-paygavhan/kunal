@@ -1,6 +1,6 @@
 all:
   children:
-    all:
+    web:
       hosts:
         web1.example.com:
         web2.example.com:
